@@ -5,7 +5,8 @@ Sandbox_CH = {
     Sandbox_JordanalSpawns.Flecktarn_UnitChance_General = "斑點迷彩部隊生成幾率(常規區域)",
     Sandbox_JordanalSpawns.Flecktarn_UnitChance_General_tooltip = "採用百分比計算，此幾率會與其他服裝共享，設為100%時不會出現全斑點迷彩喪屍",
 
-
+[J&G]的沙盒設置名稱
+    Sandbox_JordanalSpawns = "Jordanal的服裝
 
 [J&G] Desert Multicam Uniform ID: 3299457564
     Sandbox_JordanalSpawns.Desert_Camo_UnitChance = "沙漠迷彩部隊生成幾率(軍事區域)",
@@ -13,7 +14,8 @@ Sandbox_CH = {
     Sandbox_JordanalSpawns.Desert_Camo_UnitChance_General = "沙漠迷彩部隊生成幾率(常規區域)",
     Sandbox_JordanalSpawns.Desert_Camo_UnitChance_General_tooltip = "採用百分比計算，此幾率會與其他服裝共享，設為100%時不會出現全沙漠迷彩喪屍",
 
-
+[J&G]的沙盒設置名稱
+    Sandbox_JordanalSpawns = "Jordanal的服裝
 
 [J&G] Caution Pack ID: 3369825662
     Sandbox_JordanalSpawns.Caution_UnitChance = "警戒單位生成幾率(醫療區域)",
@@ -23,7 +25,8 @@ Sandbox_CH = {
     Sandbox_JordanalSpawns.Caution_UnitChance_Army = "警戒單位生成幾率(軍事區域)",
     Sandbox_JordanalSpawns.Caution_UnitChance_Army_tooltip = "採用百分比計算，此幾率會與其他服裝共享，設為100%時不會出現全警戒單位喪屍",
 
-
+[J&G]的沙盒設置名稱
+    Sandbox_JordanalSpawns = "Jordanal的服裝
 
 [J&G] Trauma Responder Uniform ID: 3443982326
     Sandbox_JordanalSpawns.Trauma_ResponderChance = "急救員生成幾率(軍事區域)",
@@ -33,7 +36,8 @@ Sandbox_CH = {
     Sandbox_JordanalSpawns.Trauma_ResponderChance_Medical = "急救員生成幾率(醫療區域)",
     Sandbox_JordanalSpawns.Trauma_ResponderChance_Medical_tooltip = "採用百分比計算，此幾率會與其他服裝共享，設為100%時不會出現全急救員喪屍",
 
-
+[J&G]的沙盒設置名稱
+    Sandbox_JordanalSpawns = "Jordanal的服裝
 
 [J&G] XKU Uniform ID: 3276134387
     Sandbox_JordanalSpawns.XKU_Camo_UnitChance = "XKU部隊生成幾率(軍事區域)",
@@ -41,7 +45,8 @@ Sandbox_CH = {
     Sandbox_JordanalSpawns.XKU_Camo_UnitChance_General = "XKU部隊生成幾率(常規區域)",
     Sandbox_JordanalSpawns.XKU_Camo_UnitChance_General_tooltip = "採用百分比計算，此幾率會與其他服裝共享，設為100%時不會出現全XKU部隊喪屍",
 
-
+[J&G]的沙盒設置名稱
+    Sandbox_JordanalSpawns = "Jordanal的服裝
 
 [J&G] Alpine Multicam Uniform ID: 3303746488
     Sandbox_JordanalSpawns.Alpine_Camo_UnitChance = "高山迷彩部隊生成幾率(軍事區域)",
@@ -49,7 +54,8 @@ Sandbox_CH = {
     Sandbox_JordanalSpawns.Alpine_Camo_UnitChance_General = "高山迷彩部隊生成幾率(常規區域)",
     Sandbox_JordanalSpawns.Alpine_Camo_UnitChance_General_tooltip = "採用百分比計算，此幾率會與其他服裝共享，設為100%時不會出現全高山迷彩喪屍",
 
-
+[J&G]的沙盒設置名稱
+    Sandbox_JordanalSpawns = "Jordanal的服裝
 
 [J&G] Forest Multicam Uniform ID: 3309971624
     Sandbox_JordanalSpawns.Forest_Camo_UnitChance = "森林迷彩部隊生成幾率(軍事區域)",
@@ -57,7 +63,8 @@ Sandbox_CH = {
     Sandbox_JordanalSpawns.Forest_Camo_UnitChance_General = "森林迷彩部隊生成幾率(常規區域)",
     Sandbox_JordanalSpawns.Forest_Camo_UnitChance_General_tooltip = "採用百分比計算，此幾率會與其他服裝共享，設為100%時不會出現全森林迷彩喪屍",
 
-
+[J&G]的沙盒設置名稱
+    Sandbox_JordanalSpawns = "Jordanal的服裝
 
 [J&G] Black Multicam Uniform ID: 3315302991
     Sandbox_JordanalSpawns.Black_Camo_UnitChance = "黑色迷彩部隊生成幾率(軍事區域)",
@@ -65,7 +72,8 @@ Sandbox_CH = {
     Sandbox_JordanalSpawns.Black_Camo_UnitChance_General = "黑色迷彩部隊生成幾率(常規區域)",
     Sandbox_JordanalSpawns.Black_Camo_UnitChance_General_tooltip = "採用百分比計算，此幾率會與其他服裝共享，設為100%時不會出現全黑色迷彩喪屍",
 
-
+[J&G]的沙盒設置名稱
+    Sandbox_JordanalSpawns = "Jordanal的服裝
 
 [J&G] SWAT Uniform [B42/41] ID: 3457969588
     Sandbox_JordanalSpawns.SWAT_UnitChance = "特警部隊生成幾率(警察局/監獄)",
